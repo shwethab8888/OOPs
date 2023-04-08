@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to oops");
-            DeckOfCards.DeckOf_Cards();
+            // Console.WriteLine("Welcome to oops");
+            //DeckOfCards.DeckOf_Cards();
+            DeckOfCardQueue.DeckOfCard_Queue();
         }
     }
 }
